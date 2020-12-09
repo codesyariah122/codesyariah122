@@ -1,4 +1,10 @@
-### Howdy 👋
+### Howdy 👋  
+
+***Hallo*** I'am ```Puji Ermanto```  
+
+<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/jiew.png" alt="puji"/>
+
+#### And I'am  
 
 <!--
 **codesyariah122/codesyariah122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
