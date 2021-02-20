@@ -9,9 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/00b160c14fe54d58bc6ae7ca3459a4b4bec15c20/profile-summary-card-output/dracula/1-repos-per-language.svg"/>
 
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/00b160c14fe54d58bc6ae7ca3459a4b4bec15c20/profile-summary-card-output/dracula/2-most-commit-language.svg"/>
-
-
 ##### Best Regards  
 <img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/00b160c14fe54d58bc6ae7ca3459a4b4bec15c20/profile-summary-card-output/dracula/3-stats.svg"/>
 
