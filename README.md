@@ -12,5 +12,6 @@
 
 ##### Best Regards  
 <img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/3-stats.svg"/>
+<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
 
 <img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif">
