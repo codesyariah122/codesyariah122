@@ -5,13 +5,15 @@
 <video width="320" height="240" controls src="https://youtu.be/qNy6xlVBKrg"></video>
 
 ✨ ```I'm just a Web Developer as a fulltime jobdesk and also as a Content writer On My Blog``` <a href="https://codesyariah122.github.io">Codesyariah Blog</a>  
+![first_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/0-profile-details.svg)  
 
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/0-profile-details.svg"/>
-
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/4-productive-time.svg"/>
+![second_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/4-productive-time.svg)  
 
 ##### Best Regards  
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/3-stats.svg"/>
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
+![third_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/3-stats.svg)  
 
-<img src="https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif">
+![third_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/1-repos-per-language.svg)  
+
+![first_gif](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif)  
+
+
