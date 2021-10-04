@@ -10,9 +10,10 @@ PT. Pineleng Indah Cemerlang - Evoush
 I'm Make Web Application for this job see my work : https://evoush.com as a frontend and https://app.evoush.com as a backend system
 
 
+
 ![first_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/0-profile-details.svg)  
 
-![second_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/4-productive-time.svg)  
+![second_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/5451f1b1aa57b947012cb6889b0a4a87de65836f/profile-summary-card-output/monokai/1-repos-per-language.svg)  
 
 ##### Best Regards  
 <!-- ![third_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/3-stats.svg)  
