@@ -12,6 +12,6 @@
 
 ![third_graph](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/profile-summary-card-output/monokai/1-repos-per-language.svg)   -->
 
-![first_gif](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif)  
+<!-- ![first_gif](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif) -->
 
 
