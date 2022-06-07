@@ -15,6 +15,6 @@
 <!-- ![first_gif](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif) -->  
 
 
-https://docs.google.com/presentation/d/1QcbBOviTb1UAYcPbcPj9xY5HgoX4SYQn/edit?usp=sharing&ouid=108373273119427250233&rtpof=true&sd=true
+https://pujiermanto-portfolio.vercel.app
 
 
