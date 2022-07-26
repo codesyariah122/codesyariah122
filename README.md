@@ -15,6 +15,6 @@
 <!-- ![first_gif](https://raw.githubusercontent.com/codesyariah122/codesyariah122/main/wokwow.gif) -->  
 
 
-https://pujiermanto-portfolio.vercel.app
+<a href="https://pujiermanto-portfolio.vercel.app" target="_blank">https://pujiermanto-portfolio.vercel.app</a>
 
 
