@@ -8,8 +8,9 @@
 Saya adalah seorang web developer dengan ketertarikan khusus pada pengembangan **WordPress**, **Laravel**, dan teknologi modern seperti **JavaScript** dan **Tailwind CSS**. Saya percaya bahwa teknologi dan seni (termasuk sastra) bisa berjalan beriringan untuk menciptakan sesuatu yang bermanfaat dan indah.
 
 - 💼 Sedang aktif mengembangkan berbagai project berbasis WordPress dan Laravel.
-- 🔭 Saat ini juga belajar pengembangan aplikasi Android berbasis Java.
-- 📫 Bisa dihubungi melalui email: `puji@codesyariah.dev`
+- 🔭 Saat ini juga belajar pengembangan aplikasi Android berbasis Java & Pengembangan Desktop aplikasi dengan python dan electron.
+- 📫 Bisa dihubungi melalui email: ```pujiermanto@gmail.com```
+- 📞 Bisa dihubungi melalui telepon dan whatsapp : ```0859 7163 0027```
 - 🌐 Website Portfolio: [pujiermanto-portfolio.vercel.app](https://pujiermanto-portfolio.vercel.app)
 
 ---
@@ -23,6 +24,10 @@ Saya adalah seorang web developer dengan ketertarikan khusus pada pengembangan *
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
