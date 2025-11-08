@@ -10,7 +10,7 @@ Saya adalah seorang web developer dengan ketertarikan khusus pada pengembangan *
 - 💼 Sedang aktif mengembangkan berbagai project berbasis WordPress dan Laravel.
 - 🔭 Saat ini juga belajar pengembangan aplikasi Android berbasis Java & Pengembangan Desktop aplikasi dengan python dan electron.
 - 📫 Bisa dihubungi melalui email: ```pujiermanto@gmail.com```
-- 📞 Bisa dihubungi melalui telepon dan whatsapp : ```0859 7163 0027```
+- 📞 Bisa dihubungi melalui whatsapp : ```0882 2266 8778```
 - 🌐 Website Portfolio: [pujiermanto-portfolio.vercel.app](https://pujiermanto-portfolio.vercel.app)
 
 ---
