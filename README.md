@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah seorang web developer dengan ketertarikan khusus pada pengembangan **WordPress**, **Laravel**, dan teknologi modern seperti **JavaScript** dan **Tailwind CSS**. Saya percaya bahwa teknologi dan seni (termasuk sastra) bisa berjalan beriringan untuk menciptakan sesuatu yang bermanfaat dan indah.
+Saya adalah seorang Freelancer coders dengan ketertarikan khusus pada pengembangan **WordPress**, **Laravel**, dan teknologi modern seperti **JavaScript** dan **Tailwind CSS**. Saya percaya bahwa teknologi dan seni (termasuk sastra) bisa berjalan beriringan untuk menciptakan sesuatu yang bermanfaat dan indah.
 
 - 💼 Sedang aktif mengembangkan berbagai project berbasis WordPress dan Laravel.
 - 🔭 Saat ini juga belajar pengembangan aplikasi Android berbasis Java & Pengembangan Desktop aplikasi dengan python dan electron.
